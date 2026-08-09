@@ -15,5 +15,9 @@ Output
 
 _© 2022 XYZ, Inc._
 fixed a typo
+<<<<<<< HEAD
 fixed a typo
 fixed a typo
+=======
+another typo fix
+>>>>>>> bug-fix-typo
